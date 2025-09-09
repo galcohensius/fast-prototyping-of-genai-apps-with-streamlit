@@ -1,0 +1,36 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# Jupyter / Colab
+.ipynb_checkpoints
+*.ipynb
+
+# VS Code / Cursor / IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Streamlit specific
+.streamlit/
+
+# OS specific
+.DS_Store
+Thumbs.db
